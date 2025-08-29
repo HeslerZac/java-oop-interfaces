@@ -12,5 +12,4 @@ package interfaces;
 public interface Registrable {
     void registrar(double a, double b, double resultado);
     
-    
 }

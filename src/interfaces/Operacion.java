@@ -10,6 +10,6 @@ package interfaces;
  * @author franc
  */
 public interface Operacion {
-    double calcular (double a, double b);
+    double calcular(double a, double b);
     
 }

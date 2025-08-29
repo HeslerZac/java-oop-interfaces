@@ -10,6 +10,5 @@ package interfaces;
  * @author franc
  */
 public interface Mostrable {
-    void mostrar(double resultado);
-    
+    void mostrar (double resultado);
 }
