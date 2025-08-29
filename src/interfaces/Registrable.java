@@ -9,6 +9,8 @@ package interfaces;
  *
  * @author franc
  */
-public class Registrable {
+public interface Registrable {
+    void registrar(double a, double b, double resultado);
+    
     
 }

@@ -9,6 +9,7 @@ package interfaces;
  *
  * @author franc
  */
-public class Mostrable {
+public interface Mostrable {
+    void mostrar(double resultado);
     
 }

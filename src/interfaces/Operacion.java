@@ -9,6 +9,7 @@ package interfaces;
  *
  * @author franc
  */
-public class Operacion {
+public interface Operacion {
+    double calcular (double a, double b);
     
 }
